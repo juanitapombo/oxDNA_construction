@@ -7,7 +7,7 @@ current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 import numpy as np
 import random
 
-path='/Users/juanitapombog/Desktop/origami_placement/haozhi_designs_9924/haozhi_designs_9924/brushed_corrected/50nm_brushed/50nuc_brushes/norep_planes/'
+path='/workingdir/'
 topFile = f'{path}50nmDISK.top'
 trjFile = f'{path}50nmDISK.dat'
 brush_length = 50
